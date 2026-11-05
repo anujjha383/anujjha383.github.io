@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jhaanuj383-dot.github.io/sitemap.xml
+Sitemap: https://anujjha383.github.io/sitemap.xml
