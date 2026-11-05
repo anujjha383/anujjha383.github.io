@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Publish ke baad USERNAME ko apne GitHub username se badalna hai:
-# Sitemap: https://USERNAME.github.io/sitemap.xml
+Sitemap: https://jhaanuj383-dot.github.io/sitemap.xml
